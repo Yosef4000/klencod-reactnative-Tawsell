@@ -15,7 +15,6 @@ import {
 } from 'react-native';
 
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { Ionicons } from '@expo/vector-icons';
 
 const STORAGE_KEY = '@wasel_delivery_data_v1';
 
